@@ -1,3 +1,3 @@
-require './hello_world'
+require './lib/hello_world'
 
 run Sinatra::Application
